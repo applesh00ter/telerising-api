@@ -13,7 +13,7 @@ You can use the packages to easily install the Telerising API on your system.
 
 ## Installation procedure
 1) Download the appropriate package for your system
-2) Install the package with your operating system's package manager
+2) Install the package with your operating system's package manager (on RHEL based distributions please install perl in advance)
 3) Check if you are able to access the Telerising API via your browser.
  - The default port is 5000
 
