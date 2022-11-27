@@ -26,7 +26,7 @@ You can use the packages to easily install the Telerising API on your system.
 If you encounter any errors during the installation or upgrade process do not hesitate to open
 a issue.
 ### Feedback
-If you have any feedback, please reach out to me at appleshooter@aon.at
+If you have any feedback, please reach out to me at appleshooter@mbx.biz
 
 
 ### Acknowledgements
