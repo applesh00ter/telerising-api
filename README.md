@@ -1,4 +1,6 @@
 
+![](https://img.shields.io/github/license/applesh00ter/telerising-api)
+![](https://img.shields.io/github/v/release/applesh00ter/telerising-api)
 ![](https://img.shields.io/badge/platform-linux--64%20%7C%20linux--arm-lightgrey)
 ![](https://img.shields.io/badge/python-%3E%3D%20v3-brightgreen)
 # Telerising API [Linux packages]
