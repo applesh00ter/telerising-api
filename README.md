@@ -8,9 +8,8 @@
 You can use the packages to easily install the Telerising API on your system.
 
 ### Supported operating systems:
-- Debian 12 or higher
+- Debian 13 or higher
 - Ubuntu 24.04 or higher
-- Raspbian Bookworm or higher
 
 ## Installation procedure
 1) Download the appropriate package for your system
